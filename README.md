@@ -6,6 +6,7 @@ React Toolbox is a set of [React](http://facebook.github.io/react/) components t
 
 ## Installation
 
+
 React Toolbox can be installed as an [npm package](https://www.npmjs.org/package/react-toolbox):
 
 ```bash
